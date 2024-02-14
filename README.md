@@ -28,16 +28,17 @@ e) Validar que el informe de laboratorio esté completamente diligenciado.
 
 ## PREGUNTAS ORIENTADORAS
 
-Un arreglo unidimensional es un tipo de datos estructurado que está formado de una colección finita y ordenada de
-datos del mismo tipo. Es la estructura natural para modelar listas de elementos iguales. Un ejemplo práctico de seria:
+**********************************************************************************************************************
+## Un arreglo unidimensional es un tipo de datos estructurado que está formado de una colección finita y ordenada de
+## datos del mismo tipo. Es la estructura natural para modelar listas de elementos iguales. Un ejemplo práctico de seria:
 
-## a. Almacenar los nombres de los meses
+ a. Almacenar los nombres de los meses
 
- Un arreglo tiene la característica de que puede almacenar a N elementos del mismo tipo y además permite el acceso a
-cada uno de estos elementos. Se distinguen dos partes en los arreglos:
+## Un arreglo tiene la característica de que puede almacenar a N elementos del mismo tipo y además permite el acceso a
+## cada uno de estos elementos. Se distinguen dos partes en los arreglos:
 
-## e. Los elementos del vector y el índice.
+ e. Los elementos del vector y el índice.
 
- Para acceder a cada uno de los elementos del vector utilizamos un índice. el primer elemento se accede con el índice:
+## Para acceder a cada uno de los elementos del vector utilizamos un índice. el primer elemento se accede con el índice:
 
-## b. 0
+ b. 0

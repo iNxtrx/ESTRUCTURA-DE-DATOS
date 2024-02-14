@@ -1,3 +1,5 @@
+## GUIA #1
+**********************************************************************************************************************
 ## Puntos de Estructura de Datos con enfasis en POO
 •  Primer punto: 
 Haciendo uso de estructuras de datos estáticos (vectores y matrices) con POO, Generar un

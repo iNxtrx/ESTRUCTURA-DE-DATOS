@@ -61,7 +61,7 @@ e) Validar que el informe de laboratorio esté completamente diligenciado.
 elementos mostrar un mensaje de dónde va el conteo.
 | Resuelto en: _ArregloInverso.zip_
 **********************************************************************************************************************
-3. Resuelva los siguientes algoritmos:
+2. Resuelva los siguientes algoritmos:
 - Generar los números pares entre p y q
 | Resuelto en: _PQ.zip_
 - Generar los primeros z múltiplos de 3
@@ -69,7 +69,7 @@ elementos mostrar un mensaje de dónde va el conteo.
 - Generar la suma de m primeros múltiplos de 7 más los n primeros múltiplos de 9
 | Resuelto en: _MN.zip_
 **********************************************************************************************************************
-5. Escriba el código para crear una clase abstracta con 3 atributos | Resuelto en: 
+3. Escriba el código para crear una clase abstracta con 3 atributos | Resuelto en: 
 **********************************************************************************************************************
-6. Cree una función que imprima cualquier tipo de arreglo (tipo de datos genéricos <T>), ya sea
+4. Cree una función que imprima cualquier tipo de arreglo (tipo de datos genéricos <T>), ya sea
 numérico, string, etc | Resuelto en: 

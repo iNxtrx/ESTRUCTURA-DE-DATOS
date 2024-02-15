@@ -2,7 +2,7 @@
 **********************************************************************************************************************
 ## Puntos de Estructura de Datos con enfasis en POO
 **********************************************************************************************************************
-•  Primer punto: | Resuelto en: _.zip_
+•  Primer punto: | Resuelto en: _PuntoVehiculo.zip_
 
 Haciendo uso de estructuras de datos estáticos (vectores y matrices) con POO, Generar un
 Algoritmo que guarda una matriz de N vehículos (Mazda, Toyota, etc.) con sus respectivos precios
@@ -16,7 +16,7 @@ millones del año seleccionado por el usuario.
 
 
 **********************************************************************************************************************
-•  Segundo Punto: | Resuelto en: _.zip_
+•  Segundo Punto: | Resuelto en: _VentasEmpresa.zip_
 
 Generar con POO, un programa que por cada día de la semana (lunes a domingo) acumula la
 cantidad de ventas totales diarias de una empresa, la empresa tiene 6 sedes. Mediante funciones

@@ -43,7 +43,7 @@ e) Validar que el informe de laboratorio esté completamente diligenciado.
 
  b. 0
 **********************************************************************************************************************
-## ~TRABAJO AUTONOMO~
+## _TRABAJO AUTONOMO_
 **********************************************************************************************************************
 1. Escriba el código para recorrer un arreglo de 100 números en forma inversa, pero cada 10
 elementos mostrar un mensaje de dónde va el conteo.

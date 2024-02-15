@@ -1,8 +1,9 @@
 ## GUIA #1
 **********************************************************************************************************************
 ## Puntos de Estructura de Datos con enfasis en POO
-•  Primer punto: 
 **********************************************************************************************************************
+•  Primer punto: 
+
 Haciendo uso de estructuras de datos estáticos (vectores y matrices) con POO, Generar un
 Algoritmo que guarda una matriz de N vehículos (Mazda, Toyota, etc.) con sus respectivos precios
 durante los últimos 5 años (2019, 2020, 2021 ,2022, 2023), los cuales son ingresados por teclado
@@ -14,7 +15,7 @@ mensaje que solo se permiten valores positivos y permitirle digitar nuevamente e
 millones del año seleccionado por el usuario.
 **********************************************************************************************************************
 •  Segundo Punto: 
-*
+
 Generar con POO, un programa que por cada día de la semana (lunes a domingo) acumula la
 cantidad de ventas totales diarias de una empresa, la empresa tiene 6 sedes. Mediante funciones
 llenar la matriz con las ventas respectivas, haciendo uso de funciones por cada sede mostrar los días

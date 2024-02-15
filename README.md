@@ -28,7 +28,7 @@ c) Incluir la bibliografía consultada. Normas APA.
 d) Incluir los anexos
 e) Validar que el informe de laboratorio esté completamente diligenciado.
 
-## PREGUNTAS ORIENTADORAS
+## ----------------------------------PREGUNTAS ORIENTADORAS----------------------------------
 
 **********************************************************************************************************************
 ## Un arreglo unidimensional es un tipo de datos estructurado que está formado de una colección finita y ordenada de datos del mismo tipo. Es la estructura natural para modelar listas de elementos iguales. Un ejemplo práctico de seria:

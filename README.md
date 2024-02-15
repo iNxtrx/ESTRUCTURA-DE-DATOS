@@ -42,3 +42,15 @@ e) Validar que el informe de laboratorio esté completamente diligenciado.
 ## Para acceder a cada uno de los elementos del vector utilizamos un índice. el primer elemento se accede con el índice:
 
  b. 0
+**********************************************************************************************************************
+1. Escriba el código para recorrer un arreglo de 100 números en forma inversa, pero cada 10
+elementos mostrar un mensaje de dónde va el conteo.
+  ## 
+3. Resuelva los siguientes algoritmos:
+ Generar los números pares entre p y q
+  ## PQ.zip
+ Generar los primeros z múltiplos de 3
+ Generar la suma de m primeros múltiplos de 7 más los n primeros múltiplos de 9
+5. Escriba el código para crear una clase abstracta con 3 atributos
+6. Cree una función que imprima cualquier tipo de arreglo (tipo de datos genéricos <T>), ya sea
+numérico, string, etc

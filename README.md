@@ -65,6 +65,7 @@ elementos mostrar un mensaje de dónde va el conteo.
 - Generar los números pares entre p y q
 ## PQ.zip
 - Generar los primeros z múltiplos de 3
+## PrimerosImpares.zip
 - Generar la suma de m primeros múltiplos de 7 más los n primeros múltiplos de 9
 **********************************************************************************************************************
 5. Escriba el código para crear una clase abstracta con 3 atributos

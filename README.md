@@ -59,16 +59,17 @@ e) Validar que el informe de laboratorio esté completamente diligenciado.
 **********************************************************************************************************************
 1. Escriba el código para recorrer un arreglo de 100 números en forma inversa, pero cada 10
 elementos mostrar un mensaje de dónde va el conteo.
-## ArregloInverso.zip
+| Resuelto en: _ArregloInverso.zip_
 **********************************************************************************************************************
 3. Resuelva los siguientes algoritmos:
 - Generar los números pares entre p y q
-  *_PQ.zip_*
+| Resuelto en: _PQ.zip_
 - Generar los primeros z múltiplos de 3
-_PrimerosImpares.zip_
+| Resuelto en: _PrimerosImpares.zip_
 - Generar la suma de m primeros múltiplos de 7 más los n primeros múltiplos de 9
-_MN.zip_
+| Resuelto en: _MN.zip_
 **********************************************************************************************************************
-5. Escriba el código para crear una clase abstracta con 3 atributos
+5. Escriba el código para crear una clase abstracta con 3 atributos | Resuelto en: 
+**********************************************************************************************************************
 6. Cree una función que imprima cualquier tipo de arreglo (tipo de datos genéricos <T>), ya sea
-numérico, string, etc
+numérico, string, etc | Resuelto en: 

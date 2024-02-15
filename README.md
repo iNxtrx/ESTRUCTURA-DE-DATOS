@@ -31,6 +31,18 @@ e) Validar que el informe de laboratorio esté completamente diligenciado.
 ## ----------------------------------PREGUNTAS ORIENTADORAS----------------------------------
 
 **********************************************************************************************************************
+## Situaciones con Estructuras de Datos
+1. En creacion de redes sociales puesto que es necesario manejar los grafos por la cantidad de datos manejados y sus relaciones entre si.
+2. En la lista de contactos tambien se maneja estructura de datos puesto que maneja arboles donde cada contacto va enlazado con otro y asi.
+3. El sistema de archivos maneja estructura de datos con listas o arboles que sirve para poder acceder a las carpetas o archivos guardados.
+4. En los buscadores se utiliza tambien para poder organizar los datos solicitados y obtener los datos requeridos de manera ordenada.
+5. En impresion de documentos para poder enlazar los datos de manera correcta e imprimirlos de manera completa y ordenada.
+6. En bases de datos como la creacion de usuarios donde se almacenan los datos y se enlazan con otras acciones.
+7. En las bases de datos de instituciones educativas o empresas para recopilar la informacion de los usuarios, empleados o clientes en caso tal.
+8. Se utiliza en el desarrollo web para almacenar la informacion y poder acceder facilmente a ella por la pagina creada.
+9. Aplicativos como notas para poder gestionar las notas creadas y poder relacionarlas con otros datos del usuario.
+10. En internet de las cosas para poder generar el gran esquema o red de los recursos y componenetes que estarian conectados a ello.
+
 ## Un arreglo unidimensional es un tipo de datos estructurado que está formado de una colección finita y ordenada de datos del mismo tipo. Es la estructura natural para modelar listas de elementos iguales. Un ejemplo práctico de seria:
 
  a. Almacenar los nombres de los meses

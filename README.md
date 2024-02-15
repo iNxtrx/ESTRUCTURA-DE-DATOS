@@ -2,7 +2,7 @@
 **********************************************************************************************************************
 ## Puntos de Estructura de Datos con enfasis en POO
 **********************************************************************************************************************
-•  Primer punto: | Resuelto en: _PuntoVehiculo.zip_
+•  Primer punto: | Resuelto en: _PuntoVehiculos.zip_
 
 Haciendo uso de estructuras de datos estáticos (vectores y matrices) con POO, Generar un
 Algoritmo que guarda una matriz de N vehículos (Mazda, Toyota, etc.) con sus respectivos precios
